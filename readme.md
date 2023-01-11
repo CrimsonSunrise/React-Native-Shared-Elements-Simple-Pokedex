@@ -1,4 +1,4 @@
-# Simple Shared Element Pokedéx
+# React Native Shared Element Transition - Pokedéx
 
 ## ⭐ Give this repository a star! ⭐
 
@@ -12,7 +12,7 @@ This is a simple React Native App to demonstrate how Shared Elements transition 
 
 ### Install dependencies
 
-This React App was created using the Expo-cli, therefore, you need to install it before opening the project.
+This React App was created using Expo-cli, therefore, you need to install it before opening the project.
 
 1. Install expo-cli
 

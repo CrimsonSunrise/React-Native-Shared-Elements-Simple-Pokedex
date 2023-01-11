@@ -6,6 +6,8 @@ This is a simple React Native App to demonstrate how Shared Elements transition 
 
 I've utilized the [Pokémon API](https://pokeapi.co) to fetch and show some cute little creatures.
 
+Also, to make it ⚡ <b style="color: #8b5cf6">blazing fast</b> ⚡ to show and scroll through the pokémon list, I've used [FlashList](https://shopify.github.io/flash-list/docs/), which is modern and super optimized to create lists in React Native.
+
 <div style="display:flex;">
 <img src="media/screen1.jpg" alt="Screen 1" width="250"/>
 <img src="media/screen2.jpg" alt="Screen 2" width="250"/>

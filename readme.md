@@ -1,8 +1,10 @@
-# React Native Shared Element Transition - Pokedéx
+# React Native Shared Element Transition - Pokédex
 
 ## ⭐ Give this repository a star! ⭐
 
 This is a simple React Native App to demonstrate how Shared Elements transition works using Navigation.
+
+I've utilized the [Pokémon API](https://pokeapi.co) to fetch and show some cute little creatures.
 
 <div style="display:flex;">
 <img src="assets/screen1.jpg" alt="Screen 1" width="250"/>

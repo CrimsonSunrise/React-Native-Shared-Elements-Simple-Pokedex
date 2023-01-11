@@ -7,9 +7,9 @@ This is a simple React Native App to demonstrate how Shared Elements transition 
 I've utilized the [Pokémon API](https://pokeapi.co) to fetch and show some cute little creatures.
 
 <div style="display:flex;">
-<img src="assets/screen1.jpg" alt="Screen 1" width="250"/>
-<img src="assets/screen2.jpg" alt="Screen 2" width="250"/>
-<img src="assets/screen3.gif" alt="Screen 2" width="250"/>
+<img src="media/screen1.jpg" alt="Screen 1" width="250"/>
+<img src="media/screen2.jpg" alt="Screen 2" width="250"/>
+<img src="media/screen3.gif" alt="Screen 2" width="250"/>
 </div>
 
 ### Install dependencies
